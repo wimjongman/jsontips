@@ -1,0 +1,25 @@
+{
+  "provider": {
+    "image": " data:image/png;base64,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",
+    "description": "Workbench Tips",
+    "expression": "<with variable=\"activeWorkbenchWindow.activePerspective\"><equals value=\"org.eclipse.ui.internal.ide.application.ResourcePerspective\"></equals></with>",
+    "tips": [
+      {
+        "subject": "Where was I?",
+        "date": "2018-04-26",
+        "url": "https://wiki.eclipse.org/Tip_of_the_Day/Eclipse_Tips/Now_where_was_I?action=render"
+      },
+        {
+        "subject": "Show in system explorer",
+        "date": "2018-04-26",
+        "url": "https://wiki.eclipse.org/Tip_of_the_Day/Eclipse_Tips/Show_In_System_Explorer?action=render"
+      },
+        {
+        "subject": "Quick Access",
+        "date": "2018-04-26",
+        "url": "https://wiki.eclipse.org/Tip_of_the_Day/Eclipse_Tips/Quick_Access?action=render"
+      }
+      
+    ]
+  }
+}
