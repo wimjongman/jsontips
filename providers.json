@@ -3,6 +3,11 @@
 			"require-bundle": "org.eclipse.jdt.ui",
 			"version": "1.5.0",
 			"location": "org.eclipse.jdt.ui/provider.json"
+		},
+		{
+			"require-bundle": "org.eclipse.pde.ui",
+			"version": "1.0.0",
+			"location": "org.eclipse.pde.ui/provider.json"
 		}
 	]
 }
